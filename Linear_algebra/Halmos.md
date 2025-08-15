@@ -38,14 +38,14 @@ b &= 0+b=\\
 &= (-a)+(a+c)=\\
 &= [(-a)+a]+c=\\
 &= 0+c=\\
-&=c.\;\;\square
+&=c.\quad\square
 \end{align*}
 $$
 
 (c) Prove that $a+(b-a)=b$
 
 $$
-a+(b-a)=a+[(-a)+b]=[a+(-a)]+b=0+b=b.\;\;\square
+a+(b-a)=a+[(-a)+b]=[a+(-a)]+b=0+b=b.\quad\square
 $$
 
 (d) Prove that $0\cdot a =a\cdot 0=0$.
@@ -62,15 +62,17 @@ $$
 Moreover $a0=a0=0$. $\square$
 
 (e) Prove that $(-1)a=-a$.
+
 $$
 (-1)a+a=a(-1)+a1=a[(-1)+1]=a0=0,
 $$
+
 hence the unique opposite of $a$, noted as $-a$ is equal to $(-1)a$. $\square$
 
 (f) Prove that $(-a)(-b)=ab$.
 
 $$
-(-a)(-b)=[a(-1)](-b)=a[(-1)(-b)]=a(-(-b))=ab\;\square
+(-a)(-b)=[a(-1)](-b)=a[(-1)(-b)]=a(-(-b))=ab\quad\square
 $$
 
 (g) Prove that if $ab=0$ then $a=0$ or $b=0$ or both.
