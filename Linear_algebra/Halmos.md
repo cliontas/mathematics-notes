@@ -140,3 +140,7 @@ Example: We want to find $1/3$ in $\mathcal{Z}_7$. We have $5\cdot 3=15=2\cdot 7
 Prove that if one adds $1+1+1+\dots$ and gets zero for the first time, the number of terms added is a prime number.
 
 Let $m\cdot 1 \equiv \underbrace{1+1+1+\dots+1}_{m\text{ times }}=0$.
+
+$$
+\norm{a}
+$$
