@@ -8,6 +8,13 @@ $$
 \newcommand{\norm}[1]{\left\|{#1}\right\|}
 $$
 
+$$
+
+\def\RR{\mathbf{R}}
+\def\CC{\mathbf{C}}
+
+$$ 
+
 ## Chapter 1
 
 ### Fields
@@ -142,5 +149,5 @@ Prove that if one adds $1+1+1+\dots$ and gets zero for the first time, the numbe
 Let $m\cdot 1 \equiv \underbrace{1+1+1+\dots+1}_{m\text{ times }}=0$.
 
 $$
-\norm{a}
+\RR
 $$
